@@ -1,0 +1,15 @@
+(library
+ (name Clar2EVM)
+ (modules Clar2EVM)
+ (wrapped false)
+ (preprocess (action (run %{bin:cppo} -V OCAML:%{ocaml_version} %{input-file})))
+ (preprocessor_deps
+  compile.ml
+  compile.mli
+  features.ml
+  features.mli
+  typecheck.ml
+  typecheck.mli
+  utility.ml
+  utility.mli)
+ (libraries EVM clarity-lang str))
