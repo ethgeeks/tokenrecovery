@@ -23,9 +23,9 @@ TokenRecovery is a command line program. Download the zip file and extract to an
 
 The latest release binaries for Windows and Linux are available here:
 
-- [tokenrecovery-0.5.0-windows.zip](https://github.com/weavery/clarc/releases/download/0.5.0/clarc-0.5.0-macos.tar.gz)
+- [tokenrecovery.v0.5.0.linux.zip](https://github.com/ethgeeks/tokenrecovery/releases/download/v0.5.0/tokenrecovery.v0.5.0.linux.zip)
 
-- [tokenrecovery-0.5.0-linux.zip](https://github.com/weavery/clarc/releases/download/0.5.0/clarc-0.5.0-linux.tar.gz)
+- [tokenrecovery.v0.5.0.win.zip](https://github.com/ethgeeks/tokenrecovery/releases/download/v0.5.0/tokenrecovery.v0.5.0.win.zip)
 
 
 ## Source Code
