@@ -2,4 +2,6 @@
 To be done
 
 # Usage
-
+```bash
+$ test
+```
